@@ -1,3 +1,4 @@
+% Joao Victor Rodrigues dos Santos - UFRPE
 %  SISTEMA FUZZY MAMDANI -- 25 combinations ok
 
 fuzzyFIS = mamfis(...
